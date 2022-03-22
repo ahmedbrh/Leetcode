@@ -10,4 +10,4 @@
 
 <b>Output:</b>
 [2,3]
-</pre></div>
+</pre></div> g
